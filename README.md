@@ -1,2 +1,2 @@
-# rorschach
-Framework for build automatically to complex validation rule.
+# Rorschach
+つらいバリデーション実装の緩和に
