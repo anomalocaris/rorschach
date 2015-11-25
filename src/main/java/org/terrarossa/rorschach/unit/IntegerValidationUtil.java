@@ -4,9 +4,9 @@
 
 package org.terrarossa.rorschach.unit;
 
-public class IntValidationUtil {
+public class IntegerValidationUtil {
 
-    public static boolean inRange(int target, int min, int max) {
+    public static boolean inRange(long target, long min, long max) {
         if (min > max)
             throw new IllegalArgumentException();
 
